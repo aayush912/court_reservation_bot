@@ -83,8 +83,8 @@ AMENITY_ID=the_HTML_element_ID_value
 ### 1. Clone the Repo
 
 ```bash
-git clone https://github.com/aayush912/court_bot.git
-cd court_bot
+git clone https://github.com/aayush912/court_reservation_bot.git
+cd court_reservation_bot
 ```
 
 ### 2. Create and Activate Environment
